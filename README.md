@@ -45,34 +45,29 @@ Here are some ideas to get you started:
 
 
 
-<!-- Background -->
-
-<!-- I do add this "&nbsp;" because I can't center the GIFT, let me know if you know how do it -->
-<!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
-<!--![ezgif com-gif-maker](https://user-images.githubusercontent.com/55005374/95673501-37764680-0b66-11eb-8ee1-d4f4a2b285d9.gif)-->
-
 &nbsp;
 
 <!-- Technical Skills -->
-<p><H3 align="center"><strong> 💻 Technical Skills  </strong></p>
+<p><H3 align="center"><strong> 💻 Technical skills  </strong></p>
   
   <code><img height="40" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/java.svg"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/docker.svg"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/javascript.svg"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/html5.svg"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/css3.svg"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/android.svg"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png"></code>
-  <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/react.svg"></code>
+  <code><img height="40" width="40" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/angular.svg"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/javascript.svg"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/docker.svg"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/elastic.svg"></code>
   
-  <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95687670-51de0d80-0bc2-11eb-826b-83fb8c5ec221.png"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/100187906-b7eecd80-2eae-11eb-8074-b65db8dfaecb.png"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95687701-80f47f00-0bc2-11eb-89f5-a1a8e6788aeb.png"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95688875-5dcdcd80-0bca-11eb-8915-b3cf9791ca3c.png"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/typescript.svg"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/djangoproject.svg"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/android.svg"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/cplusplus.svg"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/heroku.svg"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/cloudflare.svg"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/python.svg"></code>
+  
   
 
   </p>
@@ -82,16 +77,19 @@ Here are some ideas to get you started:
   <!-- Skills to learn -->
 <p><H3 align="center"><strong>🌐 Skills to learn </strong></p>
   
+  <code><img height="40" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/ansible.svg"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/terraform.svg"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/go.svg"></code>
   <code><img height="40" src="https://d1.awsstatic.com/training-and-certification/Certification%20Badges/AWS-Certified_Cloud-Practitioner_badge_512x512.ccd8e6f505d7d0bfb64620a723bcef5fda10d580.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/rust.svg"></code>
+  
   
   
   </p>
 &nbsp;
 
 <!-- GitHub Stats -->
-<H2 align="center"><strong>📈 GitHub Statistics 
+<H2 align="center"><strong>📈 GitHub statistics 
   </strong>
 </H2>
     <p align="center">
