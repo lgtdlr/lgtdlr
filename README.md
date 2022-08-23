@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <!-- Social Network -->
 <h3 align="center">
   
-<a href="https://www.linkedin.com/in/leonardo-torres-de-la-rosa-7b65a7172/">
+<a href="https://www.linkedin.com/in/leonardo-torres-de-la-rosa/">
   <img align="center" 
        alt="Linkdein" 
        width="22px" 
