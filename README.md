@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 
 <!-- Quote -->
-<p align="center">Computer Engineering Undergraduate Student
+<p align="center">Computer Engineer
   
 <!-- Social Network -->
 <h3 align="center">
